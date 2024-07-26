@@ -14,7 +14,8 @@ Hello! I'm [Simranjeet Singh]. I am a student of Guru Nanak Dev engineering coll
 - **Description:** This is my activity report of Induction program 2024.
 
 - **Technologies Used:** I Have done [Ms Excel] from Great Learning app
-- Here is my excel certificate.
+- **Links** Here is my excel certificate.
+- [Simranjeet Singh.pdf](https://github.com/user-attachments/files/16394657/Simranjeet.Singh.pdf)
 
 ## 📫 Contact Me
 
