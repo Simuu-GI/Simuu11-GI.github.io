@@ -8,8 +8,8 @@ Hello! I'm [Simranjeet Singh]. I am a student of Guru Nanak Dev engineering coll
 
 ## 🚀 Projects
 
-### 1. [Activity Report for Induction Program 2024](https://github.com/yourusername/project-name)
-- **Description:** This is my activity report of Induction program 2024. The link for the Activity Report is given below.
+### 1. [Activity Report for Induction Program 2024](https://github.com/Simuu-GI/Simuu-GI.github.io)
+- **Description:** This is my activity report of Induction program 2024.
 
 - **Technologies Used:** I Have done [Ms Excel] from Great Learning app
 - **Link:** Here is my excel certificate.
