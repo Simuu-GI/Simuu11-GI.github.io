@@ -1,4 +1,4 @@
-# Simuu11.github.io
+# Simuu-GI.github.io
 
 # 📂 My GitHub Portfolio 
 
