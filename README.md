@@ -12,7 +12,7 @@ Hello! I'm __Simranjeet Singh__. I am a student of __Guru Nanak Dev engineering 
 ### 1. [Activity Report for Induction Program 2024](https://github.com/Simuu-GI/Simuu-GI.github.io)
 - **Description:** This is my activity report of Induction program 2024.
 
-- **Technologies Used:** I Have done [Ms Excel] from Great Learning app
+- **Technologies Used:** I Have done __Ms Excel__ from Great Learning app
 - **Links** Here is my excel certificate.
 - [Simranjeet Singh.pdf](https://github.com/user-attachments/files/16394657/Simranjeet.Singh.pdf)
 
