@@ -3,7 +3,7 @@
 
 ## 👋 Welcome to My GitHub Profile!
 
-Hello! I'm [Simranjeet Singh]. I am a student of Guru Nanak Dev engineering college. I am currently studying in 1st year of [Computer Science Engineering] Here you'll find some of my favorite projects and contributions. Feel free to explore and reach out if you have any questions or collaboration ideas!
+Hello! I'm __Simranjeet Singh__. I am a student of __Guru Nanak Dev engineering college__. I am currently studying in 1st year of __Computer Science Engineering__ Here you'll find some of my favorite projects and contributions. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ---
 
