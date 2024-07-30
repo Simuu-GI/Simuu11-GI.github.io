@@ -28,7 +28,7 @@ My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEER
 
 :- Please click on the following link for my activity repot.
 
-🚀 [ACTIVITY REPORT](https://github.com/Simuu-GI/Simuu-GI.github.io)
+🚀 [MY ACTIVITY REPORT](https://github.com/Simuu-GI/Simuu-GI.github.io)
 
 :- I Have also completed my excle corse from GREAT LEARNING .
-
+[Simranjeet Singh.pdf](https://github.com/user-attachments/files/16394657/Simranjeet.Singh.pdf)
