@@ -1,5 +1,5 @@
 # Simuu11-GI.github.io
-# PORTFOLIO
+# 📁 My PORTFOLIO
 
 :-  **PERSONAL IMFORMATION** :-
 1. NAME- Simranjeet Singh.
@@ -21,14 +21,14 @@
 | **TOTAL**  | **471**   | **500**     |
 
  :-  **HOBBY** :-
-My hobby is to play badminton . To play volleyball. To read books . I also like to Travel new places and explore new things.
+My hobby is to play badminton 🏸 . To play volleyball 🏐 . To read books . I also like to Travel new places and explore new things 🛫 .
 
   :- **ACTIVITY REPORT** :-
 My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEERING COLLEGE.
 
 :- Please click on the following link for my activity repot.
 
-[ACTIVITY REPORT](https://github.com/Simuu-GI/Simuu-GI.github.io.git)
+🚀 [ACTIVITY REPORT](https://github.com/Simuu-GI/Simuu-GI.github.io)
 
 :- I Have also completed my excle corse from GREAT LEARNING .
 
